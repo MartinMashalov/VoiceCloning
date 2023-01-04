@@ -1,0 +1,5 @@
+fastapi
+numpy 
+pandas 
+pydantic
+torch
